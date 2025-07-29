@@ -133,8 +133,3 @@ uvicorn main:app --reload
 ## 시연 영상
 https://github.com/user-attachments/assets/e8bd4ed8-64e9-4839-9448-331ed7b59a9d
 
-
-
-## 개발자 정보
- - 개발자: 신혁주(Shin Hyeokju)
- - GitHub: https://github.com/tmxose/GasMonitoringDashboard.git
