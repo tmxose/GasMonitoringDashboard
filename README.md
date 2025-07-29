@@ -130,6 +130,11 @@ uvicorn main:app --reload
  - Apache Tomcat 9 서버를 IDE에 연동하고, 프로젝트를 서버에 추가합니다.
  - Tomcat 서버를 시작하여 웹 애플리케이션을 실행합니다.
 
+## 시연 영상
+https://github.com/user-attachments/assets/e8bd4ed8-64e9-4839-9448-331ed7b59a9d
+
+
+
 ## 개발자 정보
  - 개발자: 신혁주(Shin Hyeokju)
  - GitHub: https://github.com/tmxose/GasMonitoringDashboard.git
